@@ -50,4 +50,4 @@ admin.site.register(Bankloan,BankloanAdmin)
 
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM hass been executed successfully.
