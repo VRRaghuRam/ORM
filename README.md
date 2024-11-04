@@ -46,7 +46,8 @@ admin.site.register(Bankloan,BankloanAdmin)
 
 ## OUTPUT
 
-![Alt text](<WEB DEVELOPMENT.png>)
+![Screenshot 2024-11-04 143116](https://github.com/user-attachments/assets/83e97642-1947-490f-a2e6-d41db6b0c3e3)
+
 
 
 ## RESULT
